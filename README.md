@@ -1,0 +1,2 @@
+# nowcode
+ Practing aldorithm.
